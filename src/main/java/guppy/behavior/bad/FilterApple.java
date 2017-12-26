@@ -1,4 +1,6 @@
-package guppy.behavior;
+package guppy.behavior.bad;
+
+import guppy.behavior.Apple;
 
 import java.util.ArrayList;
 import java.util.List;
